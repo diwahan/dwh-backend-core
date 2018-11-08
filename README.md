@@ -1,2 +1,2 @@
-# dwh-core-backend
+# dwh-backend-core
 Backend for e-commerce store
